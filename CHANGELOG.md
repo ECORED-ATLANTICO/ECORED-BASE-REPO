@@ -6,9 +6,9 @@ Estos son los cambios hechos en la ECORED-BASE-2025
 
 ### Agregado
 
-+ Readme
-+ Fuentes
-- Actividades
+- Readme
+- Fuentes
+- Se elimino Actividades
 
 ### Arreglado
 
