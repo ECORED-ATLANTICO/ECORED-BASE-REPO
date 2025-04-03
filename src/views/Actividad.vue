@@ -22,6 +22,8 @@ export default {
       introduccion:
         '<b> Objetivo:</b> Evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
       barajarPreguntas: true,
+      titulo_aprobado: 'Buen trabajo',
+      titulo_reprobado: 'Vuelva a intentarlo',
       preguntas: [
         {
           id: 1,
