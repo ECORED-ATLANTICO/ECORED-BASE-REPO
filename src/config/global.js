@@ -107,12 +107,6 @@ export default {
       tipo: 'Sitio web',
       link: '',
     },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
-    },
   ],
   glosario: [
     {
