@@ -104,14 +104,14 @@ export default {
     {
       tema: '',
       referencia: '',
-      tipo: 'Sitio web',
+      tipo: '',
       link: '',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: '',
+      significado: '',
     },
   ],
   referencias: [

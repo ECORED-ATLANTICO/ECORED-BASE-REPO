@@ -1,4 +1,4 @@
-# **sena-base-2025 v1.0.0**
+# **NOMBRE DEL COMPONENTE FORMATIVO**
 
 ## **Enlace GitHubPages**
 
@@ -12,7 +12,7 @@
 
 ### 2. Instalar extención [EsLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-### 3. Asegurarce que el repositorio tiene TODOS los archivos de la [BASE](https://github.com/ECORED-SENA/ECORED-BASE-2021)
+### 3. Asegurarce que el repositorio tiene TODOS los archivos de la [BASE](https://github.com/ECORED-ATLANTICO/ECORED-BASE-REPO)
 
 ### 4. Revisar que el archivo package.json en la línea ``"ecored-pkg-fliz": "*.*.*"`` tenga la [última versión](https://www.npmjs.com/package/ecored-pkg-fliz)
 
