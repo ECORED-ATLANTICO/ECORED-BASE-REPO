@@ -137,14 +137,15 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
-          centro: 'Dirección General',
+          nombre: 'Claudia Johanna Gómez Pérez',
+          cargo:
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+          centro: 'Centro Agroturistico - Regional Santander',
         },
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Miguel de Jesús Paredes Maestre ',
+          cargo: 'Responsable de la línea de producción ',
+          centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
     },
